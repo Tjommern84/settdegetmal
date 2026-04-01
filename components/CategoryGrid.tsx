@@ -470,11 +470,65 @@ function TagPanel({
 
 // ─── Main export ──────────────────────────────────────────────────────────────
 
+const GEO_PROMPT_KEY = 'sdem_geo_prompt_dismissed';
+
 export default function CategoryGrid() {
   const router = useRouter();
   const [location, setLocation] = useState<LocationState | null>(null);
   const [selectedCat, setSelectedCat] = useState<MainCategory | null>(null);
   const [selectedTags, setSelectedTags] = useState<string[]>([]);
+  const [geoPrompt, setGeoPrompt] = useState<'hidden' | 'asking' | 'visible'>('hidden');
+  const [geoLoading, setGeoLoading] = useState(false);
+
+  // Show geolocation prompt on first load if no saved location and not dismissed
+  useEffect(() => {
+    const dismissed = localStorage.getItem(GEO_PROMPT_KEY);
+    const saved = localStorage.getItem(STORAGE_KEY);
+    if (!dismissed && !saved && 'geolocation' in navigator) {
+      setGeoPrompt('visible');
+    }
+  }, []);
+
+  const reverseGeocodeTop = async (lat: number, lon: number): Promise<string> => {
+    try {
+      const res = await fetch(
+        `https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=${lat}&lon=${lon}`,
+        { headers: { 'Accept-Language': 'no' } }
+      );
+      const json = await res.json();
+      const addr = json.address ?? {};
+      return addr.city ?? addr.town ?? addr.village ?? addr.municipality ?? 'Min lokasjon';
+    } catch {
+      return 'Min lokasjon';
+    }
+  };
+
+  const handleGeoAccept = () => {
+    setGeoLoading(true);
+    navigator.geolocation.getCurrentPosition(
+      async (pos) => {
+        const lat = Number(pos.coords.latitude.toFixed(6));
+        const lon = Number(pos.coords.longitude.toFixed(6));
+        const label = await reverseGeocodeTop(lat, lon);
+        const newLoc: LocationState = { label, lat, lon, source: 'gps', radius: 10, bydel: null };
+        localStorage.setItem(STORAGE_KEY, JSON.stringify(newLoc));
+        setLocation(newLoc);
+        setGeoPrompt('hidden');
+        setGeoLoading(false);
+      },
+      () => {
+        setGeoPrompt('hidden');
+        setGeoLoading(false);
+        localStorage.setItem(GEO_PROMPT_KEY, '1');
+      },
+      { timeout: 8000 }
+    );
+  };
+
+  const handleGeoSkip = () => {
+    localStorage.setItem(GEO_PROMPT_KEY, '1');
+    setGeoPrompt('hidden');
+  };
 
   const doNavigate = useCallback((cat: MainCategory, tags: string[]) => {
     if (!location) return;
@@ -520,6 +574,34 @@ export default function CategoryGrid() {
 
   return (
     <section>
+
+      {/* ── Geolocation prompt ──────────────────────────────────────── */}
+      {geoPrompt === 'visible' && (
+        <div className="border-b border-amber-200 bg-amber-50 px-4 py-3">
+          <div className="mx-auto flex max-w-6xl items-center justify-between gap-4">
+            <p className="text-sm text-amber-800">
+              📍 Tillat stedstjenester for å finne tilbud nær deg automatisk
+            </p>
+            <div className="flex shrink-0 gap-2">
+              <button
+                type="button"
+                onClick={handleGeoAccept}
+                disabled={geoLoading}
+                className="rounded-lg bg-amber-500 px-3 py-1.5 text-xs font-semibold text-white transition hover:bg-amber-600 disabled:opacity-60"
+              >
+                {geoLoading ? 'Henter…' : 'Tillat'}
+              </button>
+              <button
+                type="button"
+                onClick={handleGeoSkip}
+                className="rounded-lg border border-amber-300 px-3 py-1.5 text-xs font-medium text-amber-700 transition hover:bg-amber-100"
+              >
+                Hopp over
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
 
       {/* ── Top bar ─────────────────────────────────────────────────── */}
       <div className="sticky top-0 z-40 border-b border-black/[0.06] bg-white/90 backdrop-blur-md">

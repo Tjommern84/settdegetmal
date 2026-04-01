@@ -56,8 +56,10 @@ export default async function ResultsPage({
   const rawBorough = typeof searchParams.bydel    === 'string'
     ? searchParams.bydel
     : typeof searchParams.borough === 'string' ? searchParams.borough : '';
-  const rawSort  = typeof searchParams.sort === 'string' ? searchParams.sort : '';
-  const rawQuery = typeof searchParams.q    === 'string' ? searchParams.q    : '';
+  const rawSort   = typeof searchParams.sort   === 'string' ? searchParams.sort   : '';
+  const rawQuery  = typeof searchParams.q      === 'string' ? searchParams.q      : '';
+  const rawRadius = typeof searchParams.radius === 'string' ? parseInt(searchParams.radius, 10) : NaN;
+  const radiusKm  = !Number.isNaN(rawRadius) && rawRadius > 0 ? rawRadius : 10;
 
   const mainCategory = parseMainCategory(rawCat);
   const serviceType  = parseServiceType(rawType);
@@ -190,6 +192,9 @@ export default async function ResultsPage({
             categoryLabel={categoryLabel}
             locationLabel={locationLabel}
             sort={sort}
+            centerLat={lat}
+            centerLon={lon}
+            radiusKm={radiusKm}
           />
         )}
       </div>

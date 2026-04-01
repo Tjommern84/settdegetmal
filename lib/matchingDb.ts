@@ -24,6 +24,8 @@ type SearchServicesRow = {
   email: string | null;
   website: string | null;
   orgnr: string | null;
+  lat: number | null;
+  lon: number | null;
 };
 
 const mapRowToRankedService = (row: SearchServicesRow): RankedService => ({
@@ -50,6 +52,8 @@ const mapRowToRankedService = (row: SearchServicesRow): RankedService => ({
   score: row.score,
   reasons: row.reasons ?? [],
   matchReason: row.match_reason ?? '',
+  lat: row.lat ?? undefined,
+  lon: row.lon ?? undefined,
 });
 
 export type SearchParams = {

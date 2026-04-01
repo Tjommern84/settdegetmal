@@ -108,7 +108,9 @@ CREATE OR REPLACE FUNCTION search_services(
   phone text,
   email text,
   website text,
-  orgnr text
+  orgnr text,
+  lat double precision,
+  lon double precision
 ) AS $$
 #variable_conflict use_column
 DECLARE
@@ -291,7 +293,9 @@ BEGIN
     rs.phone,
     rs.email,
     rs.website,
-    rs.orgnr
+    rs.orgnr,
+    ST_Y(rs.base_location::geometry)::double precision AS lat,
+    ST_X(rs.base_location::geometry)::double precision AS lon
   FROM (
     SELECT *,
       CASE venue_key WHEN 'home' THEN 'Hjemme' WHEN 'gym' THEN 'Senter' ELSE NULL END AS venue_label

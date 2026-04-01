@@ -1,11 +1,14 @@
 'use client';
 
 import { useCallback, useEffect, useMemo, useState } from 'react';
+import dynamic from 'next/dynamic';
 import Link from 'next/link';
 import { useRouter, useSearchParams } from 'next/navigation';
 import type { RankedService } from '../../lib/matching';
 import type { SortBy } from '../../lib/matching';
 import { sortLabels, serviceTypeLabels } from '../../lib/resultFilters';
+
+const ServiceMap = dynamic(() => import('../../components/ServiceMap'), { ssr: false });
 
 const PAGE_SIZE = 10;
 
@@ -15,6 +18,9 @@ type Props = {
   categoryLabel: string;
   locationLabel: string | null;
   sort: SortBy;
+  centerLat?: number;
+  centerLon?: number;
+  radiusKm?: number;
 };
 
 function ServiceCard({ item }: { item: RankedService }) {
@@ -138,6 +144,9 @@ export default function ResultsView({
   categoryLabel,
   locationLabel,
   sort,
+  centerLat,
+  centerLon,
+  radiusKm = 10,
 }: Props) {
   const router = useRouter();
   const searchParams = useSearchParams();
@@ -192,6 +201,18 @@ export default function ResultsView({
           {nationwide.length + local.length} treff
         </span>
       </div>
+
+      {/* Map — shown when we have a centre coordinate */}
+      {centerLat != null && centerLon != null && (
+        <div className="mb-6">
+          <ServiceMap
+            center={{ lat: centerLat, lon: centerLon }}
+            radiusKm={radiusKm}
+            services={local}
+            locationLabel={locationLabel}
+          />
+        </div>
+      )}
 
       {!hasResults && (
         <div className="rounded-xl border border-slate-200 bg-white px-6 py-10 text-center">

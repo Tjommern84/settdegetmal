@@ -127,6 +127,8 @@ export type RankedService = {
   matchReason: string;
   score: number;
   reasons: string[];
+  lat?: number;
+  lon?: number;
 };
 
 const priceOrder: Record<Service['price_level'], number> = {
