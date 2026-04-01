@@ -15,10 +15,17 @@ export const sortLabels: Record<SortBy, string> = {
 };
 
 export const typeLabels: Record<ServiceTypePref, string> = {
-  pt: 'PT',
-  gym: 'Treningssenter',
-  yoga: 'Yoga',
-  course: 'Kurs',
+  styrke: 'Styrketrening',
+  kondisjon: 'Kondisjon',
+  gruppe: 'Gruppetimer',
+  yoga: 'Yoga & Mobilitet',
+  mindbody: 'Mind–body',
+  spesialisert: 'Spesialisert trening',
+  livsstil: 'Livsstil & Helse',
+  outdoor: 'Outdoor',
+  sport: 'Sport & Prestasjon',
+  pt: 'Personlig trener',
+  teknologi: 'Digital trening',
   any: 'Alle',
 };
 
@@ -47,10 +54,17 @@ export const goalSlugs: Record<Goal, string> = {
 };
 
 export const serviceTypeLabels: Record<ServiceTypePref, string> = {
-  pt: 'PT',
-  gym: 'Treningssenter',
-  yoga: 'Yoga',
-  course: 'Kurs',
+  styrke: 'Styrketrening',
+  kondisjon: 'Kondisjon',
+  gruppe: 'Gruppetimer',
+  yoga: 'Yoga & Mobilitet',
+  mindbody: 'Mind–body',
+  spesialisert: 'Spesialisert trening',
+  livsstil: 'Livsstil & Helse',
+  outdoor: 'Outdoor',
+  sport: 'Sport & Prestasjon',
+  pt: 'Personlig trener',
+  teknologi: 'Digital trening',
   any: 'Alle',
 };
 
@@ -89,7 +103,12 @@ export function parseGoal(value: string | null): Goal | 'any' {
 }
 
 export function parseServiceType(value: string | null): ServiceTypePref {
-  if (value === 'pt' || value === 'gym' || value === 'yoga' || value === 'course') {
+  if (
+    value === 'styrke' || value === 'kondisjon' || value === 'gruppe' ||
+    value === 'yoga' || value === 'mindbody' || value === 'spesialisert' ||
+    value === 'livsstil' || value === 'outdoor' || value === 'sport' ||
+    value === 'pt' || value === 'teknologi'
+  ) {
     return value;
   }
   return 'any';
@@ -110,6 +129,13 @@ export function parseVenue(value: string | null): VenuePreference {
 }
 
 export const relatedGoalsDefault: Goal[] = ['strength', 'weight_loss', 'start', 'mobility', 'endurance'];
+
+export const categoryLabels: Record<string, string> = {
+  'trene-selv': 'Trene selv',
+  'trene-sammen': 'Trene sammen',
+  oppfolging: 'Oppfølging & coaching',
+  'aktivitet-sport': 'Aktivitet & sport',
+};
 
 export type ResultsFilters = {
   sortBy: SortBy;

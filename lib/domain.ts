@@ -18,7 +18,18 @@ export type CoverageRule =
       region: 'norway' | 'nordic';
     };
 
-export type ServiceType = 'pt' | 'gym' | 'yoga' | 'course';
+export type ServiceType =
+  | 'styrke'        // Styrketrening
+  | 'kondisjon'     // Kondisjon og utholdenhet
+  | 'gruppe'        // Gruppetimer
+  | 'yoga'          // Yoga og mobilitet
+  | 'mindbody'      // Mind–body og lavintensiv trening
+  | 'spesialisert'  // Spesialisert og målrettet trening
+  | 'livsstil'      // Livsstil og helse
+  | 'outdoor'       // Outdoor og naturbasert trening
+  | 'sport'         // Sport og prestasjon
+  | 'pt'            // Personlig oppfølging og coaching
+  | 'teknologi';    // Teknologi og moderne treningsformer
 export type PriceLevel = 'low' | 'medium' | 'high';
 export type Goal =
   | 'weight_loss'
@@ -46,4 +57,9 @@ export type Service = {
   is_active?: boolean;
   cover_image_url?: string | null;
   logo_image_url?: string | null;
+  address?: string | null;
+  phone?: string | null;
+  email?: string | null;
+  website?: string | null;
+  orgnr?: string | null;
 };

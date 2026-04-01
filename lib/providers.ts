@@ -165,7 +165,7 @@ export const services: Service[] = [
   {
     id: 'gym-norge-puls',
     name: 'Puls Treningssenter',
-    type: 'gym',
+    type: 'styrke',
     description:
       'Landsdekkende treningssenterkjede med moderne utstyr og fleksible medlemskap.',
     coverage: [
@@ -184,7 +184,7 @@ export const services: Service[] = [
   {
     id: 'gym-nordic-aktiva',
     name: 'Aktiva Nordic',
-    type: 'gym',
+    type: 'styrke',
     description:
       'Nordisk treningssenterkjede med fokus på kvalitet, familie og fleksibilitet.',
     coverage: [
@@ -203,7 +203,7 @@ export const services: Service[] = [
   {
     id: 'gym-kristiansand-brygga',
     name: 'Brygga Treningssenter',
-    type: 'gym',
+    type: 'styrke',
     description:
       'Populært senter i Kristiansand med gode styrke- og kondisjonssoner.',
     coverage: [
@@ -222,7 +222,7 @@ export const services: Service[] = [
   {
     id: 'gym-drammen-elva',
     name: 'Elva Fitness Drammen',
-    type: 'gym',
+    type: 'styrke',
     description:
       'Treningssenter i Drammen med gode gruppetimer og personlig oppfølging.',
     coverage: [
@@ -241,7 +241,7 @@ export const services: Service[] = [
   {
     id: 'course-oslo-bootcamp',
     name: 'Oslo Bootcamp',
-    type: 'course',
+    type: 'gruppe',
     description:
       '8-ukers treningsprogram for deg som vil ha fast opplegg og tydelig progresjon.',
     coverage: [
@@ -260,7 +260,7 @@ export const services: Service[] = [
   {
     id: 'course-trondheim-rehab',
     name: 'Rehab & Stabilitet Trondheim',
-    type: 'course',
+    type: 'gruppe',
     description:
       'Kurs for rehabilitering og stabilitet, ledet av fysioterapeut.',
     coverage: [
@@ -279,7 +279,7 @@ export const services: Service[] = [
   {
     id: 'course-bergen-senior',
     name: 'Senior Styrke Bergen',
-    type: 'course',
+    type: 'gruppe',
     description:
       'Trygge styrkeøkter for seniorer med fokus på balanse og funksjon.',
     coverage: [
@@ -298,7 +298,7 @@ export const services: Service[] = [
   {
     id: 'course-stavanger-nybegynner',
     name: 'Start Sterk Stavanger',
-    type: 'course',
+    type: 'gruppe',
     description:
       'Nybegynnerkurs med fokus på trygg introduksjon til styrketrening.',
     coverage: [

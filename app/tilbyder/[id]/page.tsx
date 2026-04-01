@@ -10,10 +10,17 @@ const appUrl = process.env.NEXT_PUBLIC_APP_URL || 'http://localhost:3000';
 const ogImageUrl = `${appUrl}/og-default.svg`;
 
 const typeLabels: Record<Service['type'], string> = {
+  styrke: 'Treningssenter',
   pt: 'Personlig trener',
-  gym: 'Treningssenter',
-  yoga: 'Yoga',
-  course: 'Kurs',
+  yoga: 'Yoga & Bevegelighet',
+  gruppe: 'Gruppetimer',
+  kondisjon: 'Kondisjon',
+  outdoor: 'Outdoor',
+  sport: 'Idrettslag & Sport',
+  mindbody: 'Mind-body',
+  spesialisert: 'Klinisk & Rehab',
+  livsstil: 'Livsstil & Helse',
+  teknologi: 'Digital trening',
 };
 
 const SERVICE_SELECT =

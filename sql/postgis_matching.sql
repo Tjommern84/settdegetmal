@@ -1,3 +1,11 @@
+-- LEGACY FILE (do not run)
+-- This script contains an older `search_services()` implementation and can overwrite
+-- the active function with outdated logic. Use `sql/01_postgis_and_search.sql` instead.
+DO $$
+BEGIN
+  RAISE EXCEPTION 'Deprecated SQL file: use sql/01_postgis_and_search.sql instead of sql/postgis_matching.sql';
+END $$;
+
 -- Enable PostGIS and pgcrypto extensions for geographic calculations and UUID generation.
 CREATE EXTENSION IF NOT EXISTS postgis;
 CREATE EXTENSION IF NOT EXISTS "pgcrypto";

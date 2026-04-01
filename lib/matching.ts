@@ -17,6 +17,16 @@ export const cityCoordinates: Record<string, { lat: number; lon: number }> = {
   stavanger: { lat: 58.9690, lon: 5.7331 },
   kristiansand: { lat: 58.1599, lon: 8.0182 },
   tromsø: { lat: 69.6492, lon: 18.9553 },
+  horten: { lat: 59.4167, lon: 10.4833 },
+  tønsberg: { lat: 59.2669, lon: 10.4076 },
+  sandefjord: { lat: 59.1310, lon: 10.2167 },
+  larvik: { lat: 59.0561, lon: 10.0289 },
+  fredrikstad: { lat: 59.2181, lon: 10.9298 },
+  sarpsborg: { lat: 59.2839, lon: 11.1097 },
+  moss: { lat: 59.4350, lon: 10.6578 },
+  hamar: { lat: 60.7945, lon: 11.0679 },
+  bodø: { lat: 67.2804, lon: 14.4049 },
+  ålesund: { lat: 62.4722, lon: 6.1495 },
 };
 
 const normalizeSpaces = (value: string) => value.trim().replace(/\s+/g, ' ');

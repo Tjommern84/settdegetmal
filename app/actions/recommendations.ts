@@ -2,7 +2,7 @@
 
 import type { RankedService } from '../../lib/matching';
 import { normalizeCity } from '../../lib/matching';
-import { getRankedServicesFromDb } from '../../lib/matchingDb';
+import { searchServices } from '../../lib/matchingDb';
 import { logError } from '../../lib/errorLogger';
 import { wrapServerAction } from '../../lib/actionWrapper';
 import { getServiceSupabase } from '../../lib/serviceSupabase';
@@ -169,7 +169,7 @@ export async function getRecommendations(
 
   let ranked: RankedService[] = [];
   try {
-    ranked = await getRankedServicesFromDb(searchParams as any);
+    ranked = await searchServices({ city: searchParams.city, lat: searchParams.lat, lon: searchParams.lon, type: searchParams.serviceType, limit: searchParams.limit, sort: searchParams.sortBy });
   } catch (error) {
     await logError({
       level: 'error',

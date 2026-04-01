@@ -67,16 +67,9 @@ cp .env.example .env.local
    - Sett admin e-post
 
 5. Sett opp databasen:
-   - Kjør SQL-skriptene i `sql/`-mappen i følgende rekkefølge:
-     1. `postgis_matching.sql` - Aktiverer PostGIS og oppretter søkefunksjon
-     2. `locations.sql` - Lokasjonshåndtering
-     3. `categories.sql` - Kategorier
-     4. `bookings.sql` - Booking-system
-     5. `user_preferences.sql` - Brukerpreferanser
-     6. `notification_preferences.sql` - Varslingsinnstillinger
-     7. `service_media.sql` - Tjeneste-media
-     8. `search_cache.sql` - Søkecache
-     9. `indexes.sql` - Ytelsesindekser
+   - Kjør SQL-skriptene i `sql/`-mappen i riktig migrasjonsrekkefølge.
+   - For matching/søk skal du bruke `01_postgis_and_search.sql` (ikke `postgis_matching.sql`, som er legacy og kan overskrive funksjonen med gammel logikk).
+   - Kjør deretter øvrige SQL-filer som prosjektet faktisk bruker (schema/RLS/ekstra tabeller) for ditt miljø.
 
 6. Start utviklingsserveren:
 ```bash

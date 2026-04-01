@@ -30,7 +30,8 @@ const parseCity = (address?: Record<string, unknown>) => {
   return (
     (address.city as string | undefined) ??
     (address.town as string | undefined) ??
-    (address.village as string | undefined)
+    (address.village as string | undefined) ??
+    (address.municipality as string | undefined)
   );
 };
 

@@ -84,6 +84,11 @@ CROSS JOIN LATERAL jsonb_array_elements(s.coverage) AS cov(value)
 WHERE s.id LIKE 'seed-%'
 ON CONFLICT DO NOTHING;
 
+-- Remove legacy demo services so result pages only use scraper/imported data.
+-- Keeps category metadata below, but purges old `seed-*` test listings.
+DELETE FROM services
+WHERE id LIKE 'seed-%';
+
 -- Seed some categories
 INSERT INTO categories (id, name, description) VALUES
   ('pt', 'Personlig trener', 'En-til-en personlig trening'),
