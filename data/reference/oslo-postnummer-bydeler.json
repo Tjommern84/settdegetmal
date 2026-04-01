@@ -1,0 +1,3101 @@
+{
+  "source": "https://www.erikbolstad.no/postnummer-koordinatar/kommune.php?kommunenummer=301",
+  "generatedAt": "2026-02-25T08:26:38.680Z",
+  "notes": "Generated from Erik Bolstad postal code page for Oslo kommune (301). Postboks/servicepostnummer filtered out.",
+  "rows": [
+    {
+      "postalCode": "0018",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Sentrum",
+      "lat": 59.9078,
+      "lon": 10.7405
+    },
+    {
+      "postalCode": "0045",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Stovner",
+      "lat": 59.9636,
+      "lon": 10.9129
+    },
+    {
+      "postalCode": "0050",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Sentrum",
+      "lat": 59.9129,
+      "lon": 10.7522
+    },
+    {
+      "postalCode": "0139",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordstrand",
+      "lat": 59.87,
+      "lon": 10.7726
+    },
+    {
+      "postalCode": "0150",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Gamle Oslo",
+      "lat": 59.8906,
+      "lon": 10.7128
+    },
+    {
+      "postalCode": "0151",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Sentrum",
+      "lat": 59.9089,
+      "lon": 10.7421
+    },
+    {
+      "postalCode": "0152",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Sentrum",
+      "lat": 59.9099,
+      "lon": 10.7466
+    },
+    {
+      "postalCode": "0153",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Sentrum",
+      "lat": 59.9104,
+      "lon": 10.7427
+    },
+    {
+      "postalCode": "0154",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Sentrum",
+      "lat": 59.9115,
+      "lon": 10.7475
+    },
+    {
+      "postalCode": "0155",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Sentrum",
+      "lat": 59.9129,
+      "lon": 10.7483
+    },
+    {
+      "postalCode": "0157",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Sentrum",
+      "lat": 59.9121,
+      "lon": 10.7416
+    },
+    {
+      "postalCode": "0158",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Sentrum",
+      "lat": 59.912,
+      "lon": 10.739
+    },
+    {
+      "postalCode": "0159",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Sentrum",
+      "lat": 59.9139,
+      "lon": 10.7416
+    },
+    {
+      "postalCode": "0160",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Sentrum",
+      "lat": 59.9108,
+      "lon": 10.7326
+    },
+    {
+      "postalCode": "0161",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Sentrum",
+      "lat": 59.9138,
+      "lon": 10.7331
+    },
+    {
+      "postalCode": "0162",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Sentrum",
+      "lat": 59.9144,
+      "lon": 10.7371
+    },
+    {
+      "postalCode": "0164",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Sentrum",
+      "lat": 59.9162,
+      "lon": 10.7389
+    },
+    {
+      "postalCode": "0165",
+      "usage": "Gate-/veg-adresse",
+      "borough": "St.Hanshaugen",
+      "lat": 59.9189,
+      "lon": 10.7414
+    },
+    {
+      "postalCode": "0166",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Sentrum",
+      "lat": 59.9192,
+      "lon": 10.7348
+    },
+    {
+      "postalCode": "0167",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Frogner",
+      "lat": 59.92,
+      "lon": 10.7316
+    },
+    {
+      "postalCode": "0168",
+      "usage": "Gate-/veg-adresse",
+      "borough": "St.Hanshaugen",
+      "lat": 59.9273,
+      "lon": 10.7344
+    },
+    {
+      "postalCode": "0169",
+      "usage": "Gate-/veg-adresse",
+      "borough": "St.Hanshaugen",
+      "lat": 59.9252,
+      "lon": 10.7367
+    },
+    {
+      "postalCode": "0170",
+      "usage": "Gate-/veg-adresse",
+      "borough": "St.Hanshaugen",
+      "lat": 59.9226,
+      "lon": 10.7368
+    },
+    {
+      "postalCode": "0171",
+      "usage": "Gate-/veg-adresse",
+      "borough": "St.Hanshaugen",
+      "lat": 59.9263,
+      "lon": 10.7427
+    },
+    {
+      "postalCode": "0172",
+      "usage": "Gate-/veg-adresse",
+      "borough": "St.Hanshaugen",
+      "lat": 59.924,
+      "lon": 10.7448
+    },
+    {
+      "postalCode": "0173",
+      "usage": "Gate-/veg-adresse",
+      "borough": "St.Hanshaugen",
+      "lat": 59.9278,
+      "lon": 10.7472
+    },
+    {
+      "postalCode": "0174",
+      "usage": "Gate-/veg-adresse",
+      "borough": "St.Hanshaugen",
+      "lat": 59.9264,
+      "lon": 10.7484
+    },
+    {
+      "postalCode": "0175",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Grünerløkka",
+      "lat": 59.9268,
+      "lon": 10.7515
+    },
+    {
+      "postalCode": "0176",
+      "usage": "Gate-/veg-adresse",
+      "borough": "St.Hanshaugen",
+      "lat": 59.9202,
+      "lon": 10.7385
+    },
+    {
+      "postalCode": "0177",
+      "usage": "Gate-/veg-adresse",
+      "borough": "St.Hanshaugen",
+      "lat": 59.9193,
+      "lon": 10.7477
+    },
+    {
+      "postalCode": "0178",
+      "usage": "Gate-/veg-adresse",
+      "borough": "St.Hanshaugen",
+      "lat": 59.9203,
+      "lon": 10.7505
+    },
+    {
+      "postalCode": "0179",
+      "usage": "Gate-/veg-adresse",
+      "borough": "St.Hanshaugen",
+      "lat": 59.9165,
+      "lon": 10.749
+    },
+    {
+      "postalCode": "0180",
+      "usage": "Gate-/veg-adresse",
+      "borough": "St.Hanshaugen",
+      "lat": 59.916,
+      "lon": 10.7431
+    },
+    {
+      "postalCode": "0181",
+      "usage": "Gate-/veg-adresse",
+      "borough": "St.Hanshaugen",
+      "lat": 59.9148,
+      "lon": 10.7501
+    },
+    {
+      "postalCode": "0182",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Grünerløkka",
+      "lat": 59.9175,
+      "lon": 10.7548
+    },
+    {
+      "postalCode": "0183",
+      "usage": "Gate-/veg-adresse",
+      "borough": "St.Hanshaugen",
+      "lat": 59.9165,
+      "lon": 10.7531
+    },
+    {
+      "postalCode": "0184",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Sentrum",
+      "lat": 59.9136,
+      "lon": 10.7525
+    },
+    {
+      "postalCode": "0185",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Sentrum",
+      "lat": 59.9118,
+      "lon": 10.7571
+    },
+    {
+      "postalCode": "0186",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Grünerløkka",
+      "lat": 59.9157,
+      "lon": 10.7587
+    },
+    {
+      "postalCode": "0187",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Gamle Oslo",
+      "lat": 59.9146,
+      "lon": 10.764
+    },
+    {
+      "postalCode": "0188",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Gamle Oslo",
+      "lat": 59.9126,
+      "lon": 10.7608
+    },
+    {
+      "postalCode": "0190",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Gamle Oslo",
+      "lat": 59.912,
+      "lon": 10.7654
+    },
+    {
+      "postalCode": "0191",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Gamle Oslo",
+      "lat": 59.9083,
+      "lon": 10.7614
+    },
+    {
+      "postalCode": "0192",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Gamle Oslo",
+      "lat": 59.9043,
+      "lon": 10.7717
+    },
+    {
+      "postalCode": "0193",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordstrand",
+      "lat": 59.8882,
+      "lon": 10.7549
+    },
+    {
+      "postalCode": "0194",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Gamle Oslo",
+      "lat": 59.904,
+      "lon": 10.756
+    },
+    {
+      "postalCode": "0195",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Gamle Oslo",
+      "lat": 59.9033,
+      "lon": 10.7876
+    },
+    {
+      "postalCode": "0196",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Gamle Oslo",
+      "lat": 59.9021,
+      "lon": 10.7818
+    },
+    {
+      "postalCode": "0198",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordstrand",
+      "lat": 59.8749,
+      "lon": 10.7602
+    },
+    {
+      "postalCode": "0250",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Frogner",
+      "lat": 59.9101,
+      "lon": 10.7244
+    },
+    {
+      "postalCode": "0251",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Sentrum",
+      "lat": 59.9123,
+      "lon": 10.7252
+    },
+    {
+      "postalCode": "0252",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Frogner",
+      "lat": 59.9081,
+      "lon": 10.7218
+    },
+    {
+      "postalCode": "0253",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Frogner",
+      "lat": 59.9136,
+      "lon": 10.7239
+    },
+    {
+      "postalCode": "0254",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Frogner",
+      "lat": 59.9127,
+      "lon": 10.7207
+    },
+    {
+      "postalCode": "0255",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Frogner",
+      "lat": 59.9151,
+      "lon": 10.7219
+    },
+    {
+      "postalCode": "0256",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Frogner",
+      "lat": 59.9172,
+      "lon": 10.7201
+    },
+    {
+      "postalCode": "0257",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Frogner",
+      "lat": 59.9169,
+      "lon": 10.7167
+    },
+    {
+      "postalCode": "0258",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Frogner",
+      "lat": 59.92,
+      "lon": 10.7226
+    },
+    {
+      "postalCode": "0259",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Frogner",
+      "lat": 59.921,
+      "lon": 10.7171
+    },
+    {
+      "postalCode": "0260",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Frogner",
+      "lat": 59.9225,
+      "lon": 10.7119
+    },
+    {
+      "postalCode": "0262",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Frogner",
+      "lat": 59.9168,
+      "lon": 10.7118
+    },
+    {
+      "postalCode": "0263",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Frogner",
+      "lat": 59.9186,
+      "lon": 10.7118
+    },
+    {
+      "postalCode": "0264",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Frogner",
+      "lat": 59.9166,
+      "lon": 10.7061
+    },
+    {
+      "postalCode": "0265",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Frogner",
+      "lat": 59.9183,
+      "lon": 10.7048
+    },
+    {
+      "postalCode": "0266",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Frogner",
+      "lat": 59.9206,
+      "lon": 10.7067
+    },
+    {
+      "postalCode": "0267",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Frogner",
+      "lat": 59.9205,
+      "lon": 10.7026
+    },
+    {
+      "postalCode": "0268",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Frogner",
+      "lat": 59.9208,
+      "lon": 10.6967
+    },
+    {
+      "postalCode": "0270",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Frogner",
+      "lat": 59.9117,
+      "lon": 10.7163
+    },
+    {
+      "postalCode": "0271",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Frogner",
+      "lat": 59.9132,
+      "lon": 10.7078
+    },
+    {
+      "postalCode": "0272",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Frogner",
+      "lat": 59.9136,
+      "lon": 10.7095
+    },
+    {
+      "postalCode": "0273",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Frogner",
+      "lat": 59.9181,
+      "lon": 10.6953
+    },
+    {
+      "postalCode": "0274",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Ullern",
+      "lat": 59.9248,
+      "lon": 10.692
+    },
+    {
+      "postalCode": "0275",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Ullern",
+      "lat": 59.926,
+      "lon": 10.6742
+    },
+    {
+      "postalCode": "0276",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Ullern",
+      "lat": 59.925,
+      "lon": 10.6835
+    },
+    {
+      "postalCode": "0277",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Ullern",
+      "lat": 59.9212,
+      "lon": 10.6779
+    },
+    {
+      "postalCode": "0278",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Ullern",
+      "lat": 59.9198,
+      "lon": 10.6838
+    },
+    {
+      "postalCode": "0279",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Ullern",
+      "lat": 59.9209,
+      "lon": 10.6807
+    },
+    {
+      "postalCode": "0280",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Ullern",
+      "lat": 59.9255,
+      "lon": 10.6603
+    },
+    {
+      "postalCode": "0281",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Ullern",
+      "lat": 59.9208,
+      "lon": 10.6622
+    },
+    {
+      "postalCode": "0282",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Ullern",
+      "lat": 59.9206,
+      "lon": 10.65
+    },
+    {
+      "postalCode": "0283",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Ullern",
+      "lat": 59.9179,
+      "lon": 10.6424
+    },
+    {
+      "postalCode": "0284",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Ullern",
+      "lat": 59.9238,
+      "lon": 10.6355
+    },
+    {
+      "postalCode": "0286",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Frogner",
+      "lat": 59.9007,
+      "lon": 10.6857
+    },
+    {
+      "postalCode": "0287",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Frogner",
+      "lat": 59.9049,
+      "lon": 10.6791
+    },
+    {
+      "postalCode": "0349",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordre Aker",
+      "lat": 59.9423,
+      "lon": 10.7167
+    },
+    {
+      "postalCode": "0350",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Frogner",
+      "lat": 59.9219,
+      "lon": 10.7305
+    },
+    {
+      "postalCode": "0351",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Frogner",
+      "lat": 59.9227,
+      "lon": 10.7259
+    },
+    {
+      "postalCode": "0352",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Frogner",
+      "lat": 59.9224,
+      "lon": 10.7281
+    },
+    {
+      "postalCode": "0353",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Frogner",
+      "lat": 59.9244,
+      "lon": 10.7174
+    },
+    {
+      "postalCode": "0354",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Frogner",
+      "lat": 59.926,
+      "lon": 10.7289
+    },
+    {
+      "postalCode": "0355",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Frogner",
+      "lat": 59.9245,
+      "lon": 10.7227
+    },
+    {
+      "postalCode": "0356",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Frogner",
+      "lat": 59.9271,
+      "lon": 10.7252
+    },
+    {
+      "postalCode": "0357",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Frogner",
+      "lat": 59.9266,
+      "lon": 10.7223
+    },
+    {
+      "postalCode": "0358",
+      "usage": "Gate-/veg-adresse",
+      "borough": "St.Hanshaugen",
+      "lat": 59.9312,
+      "lon": 10.7311
+    },
+    {
+      "postalCode": "0359",
+      "usage": "Gate-/veg-adresse",
+      "borough": "St.Hanshaugen",
+      "lat": 59.9337,
+      "lon": 10.7316
+    },
+    {
+      "postalCode": "0360",
+      "usage": "Gate-/veg-adresse",
+      "borough": "St.Hanshaugen",
+      "lat": 59.9318,
+      "lon": 10.7269
+    },
+    {
+      "postalCode": "0361",
+      "usage": "Gate-/veg-adresse",
+      "borough": "St.Hanshaugen",
+      "lat": 59.9341,
+      "lon": 10.7262
+    },
+    {
+      "postalCode": "0362",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Frogner",
+      "lat": 59.9305,
+      "lon": 10.7221
+    },
+    {
+      "postalCode": "0363",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Frogner",
+      "lat": 59.9314,
+      "lon": 10.718
+    },
+    {
+      "postalCode": "0364",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Frogner",
+      "lat": 59.9303,
+      "lon": 10.7206
+    },
+    {
+      "postalCode": "0365",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Frogner",
+      "lat": 59.9284,
+      "lon": 10.7221
+    },
+    {
+      "postalCode": "0366",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Frogner",
+      "lat": 59.9284,
+      "lon": 10.7183
+    },
+    {
+      "postalCode": "0367",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Frogner",
+      "lat": 59.9265,
+      "lon": 10.716
+    },
+    {
+      "postalCode": "0368",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Frogner",
+      "lat": 59.9275,
+      "lon": 10.7128
+    },
+    {
+      "postalCode": "0369",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Frogner",
+      "lat": 59.9321,
+      "lon": 10.7068
+    },
+    {
+      "postalCode": "0370",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Vestre Aker",
+      "lat": 59.9372,
+      "lon": 10.7017
+    },
+    {
+      "postalCode": "0371",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Vestre Aker",
+      "lat": 59.9374,
+      "lon": 10.7152
+    },
+    {
+      "postalCode": "0372",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordre Aker",
+      "lat": 59.9541,
+      "lon": 10.7204
+    },
+    {
+      "postalCode": "0373",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Vestre Aker",
+      "lat": 59.9421,
+      "lon": 10.7092
+    },
+    {
+      "postalCode": "0374",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Vestre Aker",
+      "lat": 59.9425,
+      "lon": 10.6978
+    },
+    {
+      "postalCode": "0375",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Ullern",
+      "lat": 59.9335,
+      "lon": 10.6889
+    },
+    {
+      "postalCode": "0376",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Vestre Aker",
+      "lat": 59.9426,
+      "lon": 10.6812
+    },
+    {
+      "postalCode": "0377",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Ullern",
+      "lat": 59.9346,
+      "lon": 10.6787
+    },
+    {
+      "postalCode": "0378",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Vestre Aker",
+      "lat": 59.9396,
+      "lon": 10.6663
+    },
+    {
+      "postalCode": "0379",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Ullern",
+      "lat": 59.932,
+      "lon": 10.6684
+    },
+    {
+      "postalCode": "0380",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Ullern",
+      "lat": 59.9321,
+      "lon": 10.6552
+    },
+    {
+      "postalCode": "0381",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Ullern",
+      "lat": 59.9285,
+      "lon": 10.6487
+    },
+    {
+      "postalCode": "0382",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Ullern",
+      "lat": 59.9307,
+      "lon": 10.6436
+    },
+    {
+      "postalCode": "0383",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Ullern",
+      "lat": 59.9321,
+      "lon": 10.6362
+    },
+    {
+      "postalCode": "0445",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Sagene",
+      "lat": 59.943,
+      "lon": 10.7615
+    },
+    {
+      "postalCode": "0450",
+      "usage": "Gate-/veg-adresse",
+      "borough": "St.Hanshaugen",
+      "lat": 59.9359,
+      "lon": 10.734
+    },
+    {
+      "postalCode": "0451",
+      "usage": "Gate-/veg-adresse",
+      "borough": "St.Hanshaugen",
+      "lat": 59.9348,
+      "lon": 10.7337
+    },
+    {
+      "postalCode": "0452",
+      "usage": "Gate-/veg-adresse",
+      "borough": "St.Hanshaugen",
+      "lat": 59.93,
+      "lon": 10.7346
+    },
+    {
+      "postalCode": "0454",
+      "usage": "Gate-/veg-adresse",
+      "borough": "St.Hanshaugen",
+      "lat": 59.9305,
+      "lon": 10.7389
+    },
+    {
+      "postalCode": "0455",
+      "usage": "Gate-/veg-adresse",
+      "borough": "St.Hanshaugen",
+      "lat": 59.9334,
+      "lon": 10.7418
+    },
+    {
+      "postalCode": "0456",
+      "usage": "Gate-/veg-adresse",
+      "borough": "St.Hanshaugen",
+      "lat": 59.9318,
+      "lon": 10.7462
+    },
+    {
+      "postalCode": "0457",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Sagene",
+      "lat": 59.9299,
+      "lon": 10.7496
+    },
+    {
+      "postalCode": "0458",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Sagene",
+      "lat": 59.9307,
+      "lon": 10.7538
+    },
+    {
+      "postalCode": "0459",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Sagene",
+      "lat": 59.9303,
+      "lon": 10.7553
+    },
+    {
+      "postalCode": "0460",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Sagene",
+      "lat": 59.9331,
+      "lon": 10.7516
+    },
+    {
+      "postalCode": "0461",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Sagene",
+      "lat": 59.9356,
+      "lon": 10.7544
+    },
+    {
+      "postalCode": "0462",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Sagene",
+      "lat": 59.9374,
+      "lon": 10.7508
+    },
+    {
+      "postalCode": "0463",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Sagene",
+      "lat": 59.9377,
+      "lon": 10.7552
+    },
+    {
+      "postalCode": "0464",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Sagene",
+      "lat": 59.9394,
+      "lon": 10.7537
+    },
+    {
+      "postalCode": "0465",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Sagene",
+      "lat": 59.9381,
+      "lon": 10.7585
+    },
+    {
+      "postalCode": "0467",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Sagene",
+      "lat": 59.9448,
+      "lon": 10.761
+    },
+    {
+      "postalCode": "0468",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Sagene",
+      "lat": 59.9427,
+      "lon": 10.7599
+    },
+    {
+      "postalCode": "0469",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Sagene",
+      "lat": 59.9408,
+      "lon": 10.7622
+    },
+    {
+      "postalCode": "0470",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Sagene",
+      "lat": 59.9397,
+      "lon": 10.7627
+    },
+    {
+      "postalCode": "0472",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Sagene",
+      "lat": 59.9381,
+      "lon": 10.7646
+    },
+    {
+      "postalCode": "0473",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Sagene",
+      "lat": 59.9333,
+      "lon": 10.7606
+    },
+    {
+      "postalCode": "0474",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Sagene",
+      "lat": 59.9323,
+      "lon": 10.7641
+    },
+    {
+      "postalCode": "0475",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Sagene",
+      "lat": 59.933,
+      "lon": 10.7715
+    },
+    {
+      "postalCode": "0476",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Sagene",
+      "lat": 59.9349,
+      "lon": 10.7634
+    },
+    {
+      "postalCode": "0477",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Sagene",
+      "lat": 59.9373,
+      "lon": 10.7658
+    },
+    {
+      "postalCode": "0478",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Sagene",
+      "lat": 59.9352,
+      "lon": 10.7678
+    },
+    {
+      "postalCode": "0479",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Sagene",
+      "lat": 59.9368,
+      "lon": 10.7755
+    },
+    {
+      "postalCode": "0480",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Sagene",
+      "lat": 59.9376,
+      "lon": 10.7708
+    },
+    {
+      "postalCode": "0481",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Sagene",
+      "lat": 59.9398,
+      "lon": 10.7763
+    },
+    {
+      "postalCode": "0482",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Sagene",
+      "lat": 59.9418,
+      "lon": 10.774
+    },
+    {
+      "postalCode": "0483",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Sagene",
+      "lat": 59.9441,
+      "lon": 10.7735
+    },
+    {
+      "postalCode": "0484",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordre Aker",
+      "lat": 59.9479,
+      "lon": 10.7672
+    },
+    {
+      "postalCode": "0485",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Sagene",
+      "lat": 59.9489,
+      "lon": 10.7738
+    },
+    {
+      "postalCode": "0486",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordre Aker",
+      "lat": 59.9539,
+      "lon": 10.7706
+    },
+    {
+      "postalCode": "0487",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordre Aker",
+      "lat": 59.9485,
+      "lon": 10.7814
+    },
+    {
+      "postalCode": "0488",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordre Aker",
+      "lat": 59.9478,
+      "lon": 10.7893
+    },
+    {
+      "postalCode": "0489",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordre Aker",
+      "lat": 59.9538,
+      "lon": 10.786
+    },
+    {
+      "postalCode": "0490",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordre Aker",
+      "lat": 59.9527,
+      "lon": 10.7967
+    },
+    {
+      "postalCode": "0491",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordre Aker",
+      "lat": 59.9594,
+      "lon": 10.787
+    },
+    {
+      "postalCode": "0492",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordre Aker",
+      "lat": 59.9576,
+      "lon": 10.7831
+    },
+    {
+      "postalCode": "0493",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordre Aker",
+      "lat": 59.9612,
+      "lon": 10.779
+    },
+    {
+      "postalCode": "0494",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordre Aker",
+      "lat": 59.9641,
+      "lon": 10.7897
+    },
+    {
+      "postalCode": "0495",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordre Aker",
+      "lat": 59.9647,
+      "lon": 10.7947
+    },
+    {
+      "postalCode": "0496",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Marka",
+      "lat": 59.9786,
+      "lon": 10.8128
+    },
+    {
+      "postalCode": "0550",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Grünerløkka",
+      "lat": 59.9193,
+      "lon": 10.758
+    },
+    {
+      "postalCode": "0551",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Grünerløkka",
+      "lat": 59.9219,
+      "lon": 10.7566
+    },
+    {
+      "postalCode": "0552",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Grünerløkka",
+      "lat": 59.9226,
+      "lon": 10.7598
+    },
+    {
+      "postalCode": "0553",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Grünerløkka",
+      "lat": 59.9248,
+      "lon": 10.7619
+    },
+    {
+      "postalCode": "0554",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Grünerløkka",
+      "lat": 59.9245,
+      "lon": 10.7571
+    },
+    {
+      "postalCode": "0555",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Sagene",
+      "lat": 59.9274,
+      "lon": 10.7595
+    },
+    {
+      "postalCode": "0556",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Grünerløkka",
+      "lat": 59.9279,
+      "lon": 10.7615
+    },
+    {
+      "postalCode": "0557",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Grünerløkka",
+      "lat": 59.9287,
+      "lon": 10.7635
+    },
+    {
+      "postalCode": "0558",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Grünerløkka",
+      "lat": 59.9215,
+      "lon": 10.7644
+    },
+    {
+      "postalCode": "0559",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Grünerløkka",
+      "lat": 59.9204,
+      "lon": 10.765
+    },
+    {
+      "postalCode": "0560",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Grünerløkka",
+      "lat": 59.9199,
+      "lon": 10.7656
+    },
+    {
+      "postalCode": "0561",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Gamle Oslo",
+      "lat": 59.9169,
+      "lon": 10.7646
+    },
+    {
+      "postalCode": "0562",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Grünerløkka",
+      "lat": 59.9197,
+      "lon": 10.7671
+    },
+    {
+      "postalCode": "0563",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Grünerløkka",
+      "lat": 59.9218,
+      "lon": 10.7757
+    },
+    {
+      "postalCode": "0564",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Grünerløkka",
+      "lat": 59.9231,
+      "lon": 10.7744
+    },
+    {
+      "postalCode": "0565",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Grünerløkka",
+      "lat": 59.9244,
+      "lon": 10.7727
+    },
+    {
+      "postalCode": "0566",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Grünerløkka",
+      "lat": 59.9254,
+      "lon": 10.7695
+    },
+    {
+      "postalCode": "0567",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Grünerløkka",
+      "lat": 59.9278,
+      "lon": 10.77
+    },
+    {
+      "postalCode": "0568",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Grünerløkka",
+      "lat": 59.9282,
+      "lon": 10.7709
+    },
+    {
+      "postalCode": "0569",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Grünerløkka",
+      "lat": 59.9298,
+      "lon": 10.7759
+    },
+    {
+      "postalCode": "0570",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Grünerløkka",
+      "lat": 59.9317,
+      "lon": 10.7787
+    },
+    {
+      "postalCode": "0571",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Grünerløkka",
+      "lat": 59.9264,
+      "lon": 10.7801
+    },
+    {
+      "postalCode": "0572",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Grünerløkka",
+      "lat": 59.9301,
+      "lon": 10.7832
+    },
+    {
+      "postalCode": "0573",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Grünerløkka",
+      "lat": 59.9311,
+      "lon": 10.7814
+    },
+    {
+      "postalCode": "0574",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Grünerløkka",
+      "lat": 59.9334,
+      "lon": 10.7808
+    },
+    {
+      "postalCode": "0575",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Grünerløkka",
+      "lat": 59.9255,
+      "lon": 10.7864
+    },
+    {
+      "postalCode": "0576",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Grünerløkka",
+      "lat": 59.9202,
+      "lon": 10.7863
+    },
+    {
+      "postalCode": "0577",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Gamle Oslo",
+      "lat": 59.9152,
+      "lon": 10.7722
+    },
+    {
+      "postalCode": "0578",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Gamle Oslo",
+      "lat": 59.9151,
+      "lon": 10.7694
+    },
+    {
+      "postalCode": "0579",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Grünerløkka",
+      "lat": 59.9268,
+      "lon": 10.7957
+    },
+    {
+      "postalCode": "0580",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Bjerke",
+      "lat": 59.9326,
+      "lon": 10.8105
+    },
+    {
+      "postalCode": "0581",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Bjerke",
+      "lat": 59.9263,
+      "lon": 10.8189
+    },
+    {
+      "postalCode": "0582",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Bjerke",
+      "lat": 59.9301,
+      "lon": 10.8313
+    },
+    {
+      "postalCode": "0583",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Bjerke",
+      "lat": 59.9345,
+      "lon": 10.8205
+    },
+    {
+      "postalCode": "0584",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Bjerke",
+      "lat": 59.939,
+      "lon": 10.818
+    },
+    {
+      "postalCode": "0585",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Grünerløkka",
+      "lat": 59.9322,
+      "lon": 10.7916
+    },
+    {
+      "postalCode": "0586",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Bjerke",
+      "lat": 59.9374,
+      "lon": 10.7989
+    },
+    {
+      "postalCode": "0587",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordre Aker",
+      "lat": 59.9437,
+      "lon": 10.7942
+    },
+    {
+      "postalCode": "0588",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordre Aker",
+      "lat": 59.9462,
+      "lon": 10.802
+    },
+    {
+      "postalCode": "0589",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Bjerke",
+      "lat": 59.9413,
+      "lon": 10.8113
+    },
+    {
+      "postalCode": "0590",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Bjerke",
+      "lat": 59.9492,
+      "lon": 10.8152
+    },
+    {
+      "postalCode": "0591",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Bjerke",
+      "lat": 59.9476,
+      "lon": 10.8236
+    },
+    {
+      "postalCode": "0592",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Bjerke",
+      "lat": 59.9486,
+      "lon": 10.8272
+    },
+    {
+      "postalCode": "0593",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Bjerke",
+      "lat": 59.9454,
+      "lon": 10.8364
+    },
+    {
+      "postalCode": "0594",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Bjerke",
+      "lat": 59.942,
+      "lon": 10.8357
+    },
+    {
+      "postalCode": "0595",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Bjerke",
+      "lat": 59.9457,
+      "lon": 10.8513
+    },
+    {
+      "postalCode": "0596",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Bjerke",
+      "lat": 59.9432,
+      "lon": 10.8464
+    },
+    {
+      "postalCode": "0597",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Bjerke",
+      "lat": 59.9472,
+      "lon": 10.849
+    },
+    {
+      "postalCode": "0598",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Bjerke",
+      "lat": 59.9394,
+      "lon": 10.827
+    },
+    {
+      "postalCode": "0650",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Gamle Oslo",
+      "lat": 59.9115,
+      "lon": 10.7733
+    },
+    {
+      "postalCode": "0651",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Gamle Oslo",
+      "lat": 59.9131,
+      "lon": 10.7702
+    },
+    {
+      "postalCode": "0652",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Gamle Oslo",
+      "lat": 59.912,
+      "lon": 10.7755
+    },
+    {
+      "postalCode": "0653",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Gamle Oslo",
+      "lat": 59.9126,
+      "lon": 10.7769
+    },
+    {
+      "postalCode": "0654",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Gamle Oslo",
+      "lat": 59.9127,
+      "lon": 10.7799
+    },
+    {
+      "postalCode": "0655",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Gamle Oslo",
+      "lat": 59.9131,
+      "lon": 10.7828
+    },
+    {
+      "postalCode": "0656",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Gamle Oslo",
+      "lat": 59.9075,
+      "lon": 10.7739
+    },
+    {
+      "postalCode": "0657",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Gamle Oslo",
+      "lat": 59.9072,
+      "lon": 10.785
+    },
+    {
+      "postalCode": "0658",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Gamle Oslo",
+      "lat": 59.9086,
+      "lon": 10.7901
+    },
+    {
+      "postalCode": "0659",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Gamle Oslo",
+      "lat": 59.9073,
+      "lon": 10.8016
+    },
+    {
+      "postalCode": "0660",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Gamle Oslo",
+      "lat": 59.9102,
+      "lon": 10.799
+    },
+    {
+      "postalCode": "0661",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Gamle Oslo",
+      "lat": 59.9147,
+      "lon": 10.7938
+    },
+    {
+      "postalCode": "0662",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Gamle Oslo",
+      "lat": 59.9206,
+      "lon": 10.7967
+    },
+    {
+      "postalCode": "0663",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Gamle Oslo",
+      "lat": 59.9168,
+      "lon": 10.8009
+    },
+    {
+      "postalCode": "0664",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Alna",
+      "lat": 59.9174,
+      "lon": 10.8192
+    },
+    {
+      "postalCode": "0665",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Alna",
+      "lat": 59.9201,
+      "lon": 10.8144
+    },
+    {
+      "postalCode": "0666",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Alna",
+      "lat": 59.9162,
+      "lon": 10.8233
+    },
+    {
+      "postalCode": "0667",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Østensjø",
+      "lat": 59.9069,
+      "lon": 10.8206
+    },
+    {
+      "postalCode": "0668",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Alna",
+      "lat": 59.9271,
+      "lon": 10.8458
+    },
+    {
+      "postalCode": "0669",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Alna",
+      "lat": 59.9157,
+      "lon": 10.8368
+    },
+    {
+      "postalCode": "0670",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Alna",
+      "lat": 59.919,
+      "lon": 10.8429
+    },
+    {
+      "postalCode": "0671",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Østensjø",
+      "lat": 59.9113,
+      "lon": 10.8453
+    },
+    {
+      "postalCode": "0672",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Alna",
+      "lat": 59.9119,
+      "lon": 10.8561
+    },
+    {
+      "postalCode": "0673",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Alna",
+      "lat": 59.9218,
+      "lon": 10.8572
+    },
+    {
+      "postalCode": "0674",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Alna",
+      "lat": 59.9174,
+      "lon": 10.8578
+    },
+    {
+      "postalCode": "0675",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Alna",
+      "lat": 59.9255,
+      "lon": 10.8656
+    },
+    {
+      "postalCode": "0676",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Alna",
+      "lat": 59.9236,
+      "lon": 10.8713
+    },
+    {
+      "postalCode": "0677",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordstrand",
+      "lat": 59.9005,
+      "lon": 10.7971
+    },
+    {
+      "postalCode": "0678",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Østensjø",
+      "lat": 59.9022,
+      "lon": 10.8102
+    },
+    {
+      "postalCode": "0679",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Østensjø",
+      "lat": 59.8963,
+      "lon": 10.8145
+    },
+    {
+      "postalCode": "0680",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Østensjø",
+      "lat": 59.8897,
+      "lon": 10.8112
+    },
+    {
+      "postalCode": "0681",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Østensjø",
+      "lat": 59.8944,
+      "lon": 10.8185
+    },
+    {
+      "postalCode": "0682",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Østensjø",
+      "lat": 59.9033,
+      "lon": 10.8334
+    },
+    {
+      "postalCode": "0683",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Østensjø",
+      "lat": 59.9019,
+      "lon": 10.8414
+    },
+    {
+      "postalCode": "0684",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Østensjø",
+      "lat": 59.9021,
+      "lon": 10.8497
+    },
+    {
+      "postalCode": "0685",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Østensjø",
+      "lat": 59.8964,
+      "lon": 10.847
+    },
+    {
+      "postalCode": "0686",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Østensjø",
+      "lat": 59.8935,
+      "lon": 10.8384
+    },
+    {
+      "postalCode": "0687",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Østensjø",
+      "lat": 59.8934,
+      "lon": 10.8504
+    },
+    {
+      "postalCode": "0688",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Østensjø",
+      "lat": 59.8871,
+      "lon": 10.8551
+    },
+    {
+      "postalCode": "0689",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Østensjø",
+      "lat": 59.8796,
+      "lon": 10.8524
+    },
+    {
+      "postalCode": "0690",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Østensjø",
+      "lat": 59.8865,
+      "lon": 10.8425
+    },
+    {
+      "postalCode": "0691",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Østensjø",
+      "lat": 59.8801,
+      "lon": 10.8451
+    },
+    {
+      "postalCode": "0692",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Østensjø",
+      "lat": 59.8769,
+      "lon": 10.8393
+    },
+    {
+      "postalCode": "0693",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Østensjø",
+      "lat": 59.8739,
+      "lon": 10.847
+    },
+    {
+      "postalCode": "0694",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Østensjø",
+      "lat": 59.8676,
+      "lon": 10.8396
+    },
+    {
+      "postalCode": "0750",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Ullern",
+      "lat": 59.9387,
+      "lon": 10.6377
+    },
+    {
+      "postalCode": "0751",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Vestre Aker",
+      "lat": 59.9427,
+      "lon": 10.641
+    },
+    {
+      "postalCode": "0752",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Vestre Aker",
+      "lat": 59.9418,
+      "lon": 10.6447
+    },
+    {
+      "postalCode": "0753",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Vestre Aker",
+      "lat": 59.9416,
+      "lon": 10.6487
+    },
+    {
+      "postalCode": "0754",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Vestre Aker",
+      "lat": 59.9531,
+      "lon": 10.6444
+    },
+    {
+      "postalCode": "0755",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Vestre Aker",
+      "lat": 59.9548,
+      "lon": 10.6401
+    },
+    {
+      "postalCode": "0756",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Vestre Aker",
+      "lat": 59.9531,
+      "lon": 10.6365
+    },
+    {
+      "postalCode": "0757",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Vestre Aker",
+      "lat": 59.9577,
+      "lon": 10.6354
+    },
+    {
+      "postalCode": "0758",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Marka",
+      "lat": 60.0112,
+      "lon": 10.6148
+    },
+    {
+      "postalCode": "0760",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Vestre Aker",
+      "lat": 59.9461,
+      "lon": 10.6386
+    },
+    {
+      "postalCode": "0763",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Vestre Aker",
+      "lat": 59.976,
+      "lon": 10.6459
+    },
+    {
+      "postalCode": "0764",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Vestre Aker",
+      "lat": 59.9698,
+      "lon": 10.6472
+    },
+    {
+      "postalCode": "0765",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Vestre Aker",
+      "lat": 59.9669,
+      "lon": 10.6436
+    },
+    {
+      "postalCode": "0766",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Vestre Aker",
+      "lat": 59.9615,
+      "lon": 10.6509
+    },
+    {
+      "postalCode": "0767",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Vestre Aker",
+      "lat": 59.9531,
+      "lon": 10.6518
+    },
+    {
+      "postalCode": "0768",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Vestre Aker",
+      "lat": 59.9488,
+      "lon": 10.6529
+    },
+    {
+      "postalCode": "0770",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Vestre Aker",
+      "lat": 59.95,
+      "lon": 10.6592
+    },
+    {
+      "postalCode": "0771",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Vestre Aker",
+      "lat": 59.9509,
+      "lon": 10.6649
+    },
+    {
+      "postalCode": "0772",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Vestre Aker",
+      "lat": 59.9509,
+      "lon": 10.6706
+    },
+    {
+      "postalCode": "0773",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Vestre Aker",
+      "lat": 59.9531,
+      "lon": 10.6786
+    },
+    {
+      "postalCode": "0774",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Vestre Aker",
+      "lat": 59.9493,
+      "lon": 10.684
+    },
+    {
+      "postalCode": "0775",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Vestre Aker",
+      "lat": 59.9481,
+      "lon": 10.6909
+    },
+    {
+      "postalCode": "0776",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Vestre Aker",
+      "lat": 59.9531,
+      "lon": 10.6906
+    },
+    {
+      "postalCode": "0777",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Vestre Aker",
+      "lat": 59.9523,
+      "lon": 10.7011
+    },
+    {
+      "postalCode": "0778",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Vestre Aker",
+      "lat": 59.9538,
+      "lon": 10.7085
+    },
+    {
+      "postalCode": "0779",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Vestre Aker",
+      "lat": 59.9592,
+      "lon": 10.7024
+    },
+    {
+      "postalCode": "0781",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Vestre Aker",
+      "lat": 59.9595,
+      "lon": 10.6929
+    },
+    {
+      "postalCode": "0782",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Vestre Aker",
+      "lat": 59.9603,
+      "lon": 10.6825
+    },
+    {
+      "postalCode": "0783",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Vestre Aker",
+      "lat": 59.9565,
+      "lon": 10.6754
+    },
+    {
+      "postalCode": "0784",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Vestre Aker",
+      "lat": 59.9562,
+      "lon": 10.669
+    },
+    {
+      "postalCode": "0785",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Vestre Aker",
+      "lat": 59.956,
+      "lon": 10.6589
+    },
+    {
+      "postalCode": "0786",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Vestre Aker",
+      "lat": 59.9611,
+      "lon": 10.6572
+    },
+    {
+      "postalCode": "0787",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Vestre Aker",
+      "lat": 59.9609,
+      "lon": 10.6739
+    },
+    {
+      "postalCode": "0788",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Vestre Aker",
+      "lat": 59.973,
+      "lon": 10.651
+    },
+    {
+      "postalCode": "0789",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Vestre Aker",
+      "lat": 59.9692,
+      "lon": 10.6569
+    },
+    {
+      "postalCode": "0790",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Vestre Aker",
+      "lat": 59.9774,
+      "lon": 10.661
+    },
+    {
+      "postalCode": "0791",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Vestre Aker",
+      "lat": 59.9738,
+      "lon": 10.669
+    },
+    {
+      "postalCode": "0850",
+      "usage": "Gate-/veg-adresse",
+      "borough": "St.Hanshaugen",
+      "lat": 59.9386,
+      "lon": 10.7335
+    },
+    {
+      "postalCode": "0851",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordre Aker",
+      "lat": 59.9424,
+      "lon": 10.7275
+    },
+    {
+      "postalCode": "0852",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordre Aker",
+      "lat": 59.9416,
+      "lon": 10.7344
+    },
+    {
+      "postalCode": "0853",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordre Aker",
+      "lat": 59.9424,
+      "lon": 10.7452
+    },
+    {
+      "postalCode": "0854",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordre Aker",
+      "lat": 59.946,
+      "lon": 10.7382
+    },
+    {
+      "postalCode": "0855",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordre Aker",
+      "lat": 59.9529,
+      "lon": 10.7334
+    },
+    {
+      "postalCode": "0856",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordre Aker",
+      "lat": 59.9472,
+      "lon": 10.7283
+    },
+    {
+      "postalCode": "0857",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordre Aker",
+      "lat": 59.9563,
+      "lon": 10.7315
+    },
+    {
+      "postalCode": "0858",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordre Aker",
+      "lat": 59.9529,
+      "lon": 10.7293
+    },
+    {
+      "postalCode": "0860",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordre Aker",
+      "lat": 59.9601,
+      "lon": 10.734
+    },
+    {
+      "postalCode": "0861",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordre Aker",
+      "lat": 59.965,
+      "lon": 10.7472
+    },
+    {
+      "postalCode": "0862",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordre Aker",
+      "lat": 59.9644,
+      "lon": 10.7377
+    },
+    {
+      "postalCode": "0863",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordre Aker",
+      "lat": 59.9667,
+      "lon": 10.7298
+    },
+    {
+      "postalCode": "0864",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordre Aker",
+      "lat": 59.964,
+      "lon": 10.7305
+    },
+    {
+      "postalCode": "0870",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordre Aker",
+      "lat": 59.9485,
+      "lon": 10.7461
+    },
+    {
+      "postalCode": "0871",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordre Aker",
+      "lat": 59.9476,
+      "lon": 10.7547
+    },
+    {
+      "postalCode": "0872",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordre Aker",
+      "lat": 59.9491,
+      "lon": 10.7609
+    },
+    {
+      "postalCode": "0873",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordre Aker",
+      "lat": 59.9538,
+      "lon": 10.7558
+    },
+    {
+      "postalCode": "0874",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordre Aker",
+      "lat": 59.9602,
+      "lon": 10.7504
+    },
+    {
+      "postalCode": "0875",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordre Aker",
+      "lat": 59.9567,
+      "lon": 10.7344
+    },
+    {
+      "postalCode": "0876",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordre Aker",
+      "lat": 59.9528,
+      "lon": 10.7449
+    },
+    {
+      "postalCode": "0877",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordre Aker",
+      "lat": 59.9459,
+      "lon": 10.7445
+    },
+    {
+      "postalCode": "0880",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordre Aker",
+      "lat": 59.9599,
+      "lon": 10.7601
+    },
+    {
+      "postalCode": "0881",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordre Aker",
+      "lat": 59.9631,
+      "lon": 10.7624
+    },
+    {
+      "postalCode": "0882",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordre Aker",
+      "lat": 59.9637,
+      "lon": 10.767
+    },
+    {
+      "postalCode": "0883",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordre Aker",
+      "lat": 59.9616,
+      "lon": 10.7691
+    },
+    {
+      "postalCode": "0884",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordre Aker",
+      "lat": 59.9677,
+      "lon": 10.773
+    },
+    {
+      "postalCode": "0890",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Marka",
+      "lat": 60.0117,
+      "lon": 10.7699
+    },
+    {
+      "postalCode": "0891",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Marka",
+      "lat": 60.0387,
+      "lon": 10.7997
+    },
+    {
+      "postalCode": "0950",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Bjerke",
+      "lat": 59.948,
+      "lon": 10.8631
+    },
+    {
+      "postalCode": "0951",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Grorud",
+      "lat": 59.9483,
+      "lon": 10.8674
+    },
+    {
+      "postalCode": "0952",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Grorud",
+      "lat": 59.9518,
+      "lon": 10.8773
+    },
+    {
+      "postalCode": "0953",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Grorud",
+      "lat": 59.9544,
+      "lon": 10.8721
+    },
+    {
+      "postalCode": "0954",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Grorud",
+      "lat": 59.9509,
+      "lon": 10.851
+    },
+    {
+      "postalCode": "0955",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Grorud",
+      "lat": 59.9526,
+      "lon": 10.8618
+    },
+    {
+      "postalCode": "0956",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Grorud",
+      "lat": 59.9551,
+      "lon": 10.8577
+    },
+    {
+      "postalCode": "0957",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Grorud",
+      "lat": 59.9634,
+      "lon": 10.8655
+    },
+    {
+      "postalCode": "0958",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Grorud",
+      "lat": 59.9665,
+      "lon": 10.8712
+    },
+    {
+      "postalCode": "0959",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Grorud",
+      "lat": 59.9615,
+      "lon": 10.8712
+    },
+    {
+      "postalCode": "0960",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Grorud",
+      "lat": 59.9674,
+      "lon": 10.8758
+    },
+    {
+      "postalCode": "0962",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Grorud",
+      "lat": 59.9585,
+      "lon": 10.8867
+    },
+    {
+      "postalCode": "0963",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Grorud",
+      "lat": 59.9644,
+      "lon": 10.8818
+    },
+    {
+      "postalCode": "0964",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Grorud",
+      "lat": 59.9731,
+      "lon": 10.9201
+    },
+    {
+      "postalCode": "0968",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Stovner",
+      "lat": 59.9744,
+      "lon": 10.9277
+    },
+    {
+      "postalCode": "0969",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Stovner",
+      "lat": 59.9689,
+      "lon": 10.9277
+    },
+    {
+      "postalCode": "0970",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Grorud",
+      "lat": 59.9638,
+      "lon": 10.8961
+    },
+    {
+      "postalCode": "0971",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Grorud",
+      "lat": 59.9654,
+      "lon": 10.8919
+    },
+    {
+      "postalCode": "0972",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Grorud",
+      "lat": 59.9702,
+      "lon": 10.8976
+    },
+    {
+      "postalCode": "0973",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Grorud",
+      "lat": 59.9686,
+      "lon": 10.9023
+    },
+    {
+      "postalCode": "0975",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Grorud",
+      "lat": 59.9475,
+      "lon": 10.8764
+    },
+    {
+      "postalCode": "0976",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Grorud",
+      "lat": 59.9554,
+      "lon": 10.8879
+    },
+    {
+      "postalCode": "0977",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Stovner",
+      "lat": 59.9522,
+      "lon": 10.9146
+    },
+    {
+      "postalCode": "0978",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Stovner",
+      "lat": 59.9548,
+      "lon": 10.9111
+    },
+    {
+      "postalCode": "0979",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Stovner",
+      "lat": 59.9507,
+      "lon": 10.9231
+    },
+    {
+      "postalCode": "0980",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Stovner",
+      "lat": 59.9493,
+      "lon": 10.9335
+    },
+    {
+      "postalCode": "0981",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Stovner",
+      "lat": 59.9527,
+      "lon": 10.9339
+    },
+    {
+      "postalCode": "0982",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Stovner",
+      "lat": 59.9546,
+      "lon": 10.9335
+    },
+    {
+      "postalCode": "0983",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Stovner",
+      "lat": 59.959,
+      "lon": 10.9355
+    },
+    {
+      "postalCode": "0984",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Stovner",
+      "lat": 59.9589,
+      "lon": 10.9175
+    },
+    {
+      "postalCode": "0985",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Stovner",
+      "lat": 59.9619,
+      "lon": 10.9263
+    },
+    {
+      "postalCode": "0986",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Stovner",
+      "lat": 59.9656,
+      "lon": 10.9238
+    },
+    {
+      "postalCode": "0987",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Stovner",
+      "lat": 59.9655,
+      "lon": 10.9212
+    },
+    {
+      "postalCode": "0988",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Stovner",
+      "lat": 59.9647,
+      "lon": 10.9099
+    },
+    {
+      "postalCode": "1051",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Alna",
+      "lat": 59.9425,
+      "lon": 10.8996
+    },
+    {
+      "postalCode": "1052",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Alna",
+      "lat": 59.9422,
+      "lon": 10.8924
+    },
+    {
+      "postalCode": "1053",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Alna",
+      "lat": 59.9448,
+      "lon": 10.8908
+    },
+    {
+      "postalCode": "1054",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Alna",
+      "lat": 59.9483,
+      "lon": 10.8979
+    },
+    {
+      "postalCode": "1055",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Stovner",
+      "lat": 59.9454,
+      "lon": 10.9052
+    },
+    {
+      "postalCode": "1056",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Alna",
+      "lat": 59.936,
+      "lon": 10.8953
+    },
+    {
+      "postalCode": "1061",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Alna",
+      "lat": 59.9335,
+      "lon": 10.9117
+    },
+    {
+      "postalCode": "1062",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Alna",
+      "lat": 59.9368,
+      "lon": 10.9127
+    },
+    {
+      "postalCode": "1063",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Alna",
+      "lat": 59.9382,
+      "lon": 10.9118
+    },
+    {
+      "postalCode": "1064",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Alna",
+      "lat": 59.9354,
+      "lon": 10.9222
+    },
+    {
+      "postalCode": "1065",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Alna",
+      "lat": 59.9381,
+      "lon": 10.9235
+    },
+    {
+      "postalCode": "1067",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Alna",
+      "lat": 59.934,
+      "lon": 10.8882
+    },
+    {
+      "postalCode": "1068",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Alna",
+      "lat": 59.9285,
+      "lon": 10.8813
+    },
+    {
+      "postalCode": "1069",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Alna",
+      "lat": 59.9313,
+      "lon": 10.8772
+    },
+    {
+      "postalCode": "1071",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Alna",
+      "lat": 59.9291,
+      "lon": 10.8722
+    },
+    {
+      "postalCode": "1081",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Alna",
+      "lat": 59.9355,
+      "lon": 10.873
+    },
+    {
+      "postalCode": "1083",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Alna",
+      "lat": 59.9507,
+      "lon": 10.8907
+    },
+    {
+      "postalCode": "1084",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Stovner",
+      "lat": 59.9487,
+      "lon": 10.9084
+    },
+    {
+      "postalCode": "1086",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Stovner",
+      "lat": 59.9429,
+      "lon": 10.922
+    },
+    {
+      "postalCode": "1087",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Stovner",
+      "lat": 59.9464,
+      "lon": 10.9205
+    },
+    {
+      "postalCode": "1088",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Stovner",
+      "lat": 59.9435,
+      "lon": 10.9338
+    },
+    {
+      "postalCode": "1089",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Stovner",
+      "lat": 59.9433,
+      "lon": 10.9414
+    },
+    {
+      "postalCode": "1150",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordstrand",
+      "lat": 59.8678,
+      "lon": 10.8132
+    },
+    {
+      "postalCode": "1151",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordstrand",
+      "lat": 59.87,
+      "lon": 10.8101
+    },
+    {
+      "postalCode": "1152",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordstrand",
+      "lat": 59.8725,
+      "lon": 10.807
+    },
+    {
+      "postalCode": "1153",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordstrand",
+      "lat": 59.8779,
+      "lon": 10.8118
+    },
+    {
+      "postalCode": "1154",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordstrand",
+      "lat": 59.8749,
+      "lon": 10.8187
+    },
+    {
+      "postalCode": "1155",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordstrand",
+      "lat": 59.87,
+      "lon": 10.8199
+    },
+    {
+      "postalCode": "1156",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordstrand",
+      "lat": 59.8679,
+      "lon": 10.8253
+    },
+    {
+      "postalCode": "1157",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordstrand",
+      "lat": 59.867,
+      "lon": 10.8182
+    },
+    {
+      "postalCode": "1158",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordstrand",
+      "lat": 59.8651,
+      "lon": 10.8216
+    },
+    {
+      "postalCode": "1160",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordstrand",
+      "lat": 59.8726,
+      "lon": 10.7983
+    },
+    {
+      "postalCode": "1161",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordstrand",
+      "lat": 59.8699,
+      "lon": 10.7962
+    },
+    {
+      "postalCode": "1162",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordstrand",
+      "lat": 59.8658,
+      "lon": 10.7927
+    },
+    {
+      "postalCode": "1163",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordstrand",
+      "lat": 59.865,
+      "lon": 10.8026
+    },
+    {
+      "postalCode": "1164",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordstrand",
+      "lat": 59.8589,
+      "lon": 10.817
+    },
+    {
+      "postalCode": "1165",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordstrand",
+      "lat": 59.8557,
+      "lon": 10.8085
+    },
+    {
+      "postalCode": "1166",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordstrand",
+      "lat": 59.8556,
+      "lon": 10.7971
+    },
+    {
+      "postalCode": "1167",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordstrand",
+      "lat": 59.8536,
+      "lon": 10.7886
+    },
+    {
+      "postalCode": "1168",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordstrand",
+      "lat": 59.8458,
+      "lon": 10.7825
+    },
+    {
+      "postalCode": "1169",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordstrand",
+      "lat": 59.849,
+      "lon": 10.7877
+    },
+    {
+      "postalCode": "1170",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordstrand",
+      "lat": 59.8661,
+      "lon": 10.7865
+    },
+    {
+      "postalCode": "1172",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordstrand",
+      "lat": 59.8843,
+      "lon": 10.7697
+    },
+    {
+      "postalCode": "1176",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordstrand",
+      "lat": 59.8764,
+      "lon": 10.796
+    },
+    {
+      "postalCode": "1177",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordstrand",
+      "lat": 59.8789,
+      "lon": 10.782
+    },
+    {
+      "postalCode": "1178",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordstrand",
+      "lat": 59.8833,
+      "lon": 10.7887
+    },
+    {
+      "postalCode": "1179",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordstrand",
+      "lat": 59.8881,
+      "lon": 10.7742
+    },
+    {
+      "postalCode": "1181",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordstrand",
+      "lat": 59.8974,
+      "lon": 10.7823
+    },
+    {
+      "postalCode": "1182",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordstrand",
+      "lat": 59.8945,
+      "lon": 10.7945
+    },
+    {
+      "postalCode": "1184",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordstrand",
+      "lat": 59.8854,
+      "lon": 10.7976
+    },
+    {
+      "postalCode": "1185",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Nordstrand",
+      "lat": 59.8832,
+      "lon": 10.8057
+    },
+    {
+      "postalCode": "1187",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Østensjø",
+      "lat": 59.8811,
+      "lon": 10.8244
+    },
+    {
+      "postalCode": "1188",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Østensjø",
+      "lat": 59.8689,
+      "lon": 10.8346
+    },
+    {
+      "postalCode": "1189",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Østensjø",
+      "lat": 59.8637,
+      "lon": 10.8342
+    },
+    {
+      "postalCode": "1250",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Søndre Nordstrand",
+      "lat": 59.8329,
+      "lon": 10.7728
+    },
+    {
+      "postalCode": "1251",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Søndre Nordstrand",
+      "lat": 59.8286,
+      "lon": 10.7841
+    },
+    {
+      "postalCode": "1252",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Søndre Nordstrand",
+      "lat": 59.8298,
+      "lon": 10.7944
+    },
+    {
+      "postalCode": "1253",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Søndre Nordstrand",
+      "lat": 59.8318,
+      "lon": 10.7858
+    },
+    {
+      "postalCode": "1254",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Søndre Nordstrand",
+      "lat": 59.837,
+      "lon": 10.788
+    },
+    {
+      "postalCode": "1255",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Søndre Nordstrand",
+      "lat": 59.8347,
+      "lon": 10.7943
+    },
+    {
+      "postalCode": "1256",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Søndre Nordstrand",
+      "lat": 59.8399,
+      "lon": 10.7905
+    },
+    {
+      "postalCode": "1257",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Søndre Nordstrand",
+      "lat": 59.8442,
+      "lon": 10.7941
+    },
+    {
+      "postalCode": "1258",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Søndre Nordstrand",
+      "lat": 59.8383,
+      "lon": 10.8001
+    },
+    {
+      "postalCode": "1259",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Søndre Nordstrand",
+      "lat": 59.83,
+      "lon": 10.8002
+    },
+    {
+      "postalCode": "1262",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Søndre Nordstrand",
+      "lat": 59.83,
+      "lon": 10.8048
+    },
+    {
+      "postalCode": "1263",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Søndre Nordstrand",
+      "lat": 59.8331,
+      "lon": 10.8094
+    },
+    {
+      "postalCode": "1266",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Søndre Nordstrand",
+      "lat": 59.8432,
+      "lon": 10.8092
+    },
+    {
+      "postalCode": "1270",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Søndre Nordstrand",
+      "lat": 59.8333,
+      "lon": 10.8315
+    },
+    {
+      "postalCode": "1271",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Søndre Nordstrand",
+      "lat": 59.826,
+      "lon": 10.8334
+    },
+    {
+      "postalCode": "1272",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Søndre Nordstrand",
+      "lat": 59.8294,
+      "lon": 10.834
+    },
+    {
+      "postalCode": "1273",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Søndre Nordstrand",
+      "lat": 59.8201,
+      "lon": 10.8365
+    },
+    {
+      "postalCode": "1274",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Søndre Nordstrand",
+      "lat": 59.8223,
+      "lon": 10.8411
+    },
+    {
+      "postalCode": "1275",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Søndre Nordstrand",
+      "lat": 59.8267,
+      "lon": 10.8379
+    },
+    {
+      "postalCode": "1278",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Søndre Nordstrand",
+      "lat": 59.8401,
+      "lon": 10.8363
+    },
+    {
+      "postalCode": "1279",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Søndre Nordstrand",
+      "lat": 59.8434,
+      "lon": 10.8441
+    },
+    {
+      "postalCode": "1281",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Søndre Nordstrand",
+      "lat": 59.8454,
+      "lon": 10.8284
+    },
+    {
+      "postalCode": "1283",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Søndre Nordstrand",
+      "lat": 59.8498,
+      "lon": 10.8241
+    },
+    {
+      "postalCode": "1284",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Søndre Nordstrand",
+      "lat": 59.8559,
+      "lon": 10.8268
+    },
+    {
+      "postalCode": "1285",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Søndre Nordstrand",
+      "lat": 59.8528,
+      "lon": 10.8403
+    },
+    {
+      "postalCode": "1286",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Søndre Nordstrand",
+      "lat": 59.8478,
+      "lon": 10.8152
+    },
+    {
+      "postalCode": "1290",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Søndre Nordstrand",
+      "lat": 59.8324,
+      "lon": 10.8595
+    },
+    {
+      "postalCode": "1291",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Søndre Nordstrand",
+      "lat": 59.8249,
+      "lon": 10.85
+    },
+    {
+      "postalCode": "1294",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Søndre Nordstrand",
+      "lat": 59.8214,
+      "lon": 10.8631
+    },
+    {
+      "postalCode": "1295",
+      "usage": "Gate-/veg-adresse",
+      "borough": "Søndre Nordstrand",
+      "lat": 59.8169,
+      "lon": 10.8777
+    }
+  ]
+}
